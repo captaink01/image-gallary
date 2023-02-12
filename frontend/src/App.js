@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div className="App">
-      <h1>image galary</h1>
+      <h1>image galary 2</h1>
     </div>
   );
 }
